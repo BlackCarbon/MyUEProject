@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E7F9B9AE-4833-52BD-BDF7-C684753297D0}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyUE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
